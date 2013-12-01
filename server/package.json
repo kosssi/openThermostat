@@ -19,7 +19,8 @@
         "ds18b20"
     ],
     "dependencies" : {
-        "node-couchdb" : "0.1.3"
+        "cradle"   : "*",
+        "express"  : "*"
     },
     "license": "MIT",
     "engines": {
